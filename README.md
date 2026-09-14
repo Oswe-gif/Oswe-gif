@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 Computer Engineer passionate about software development and software architecture. My main focus is backend development, where I enjoy designing scalable, maintainable, and high-quality software solutions. I am committed to continuous learning, collaboration, and exploring new technologies.
+- 🌱 Computer Engineer passionate about software development and software architecture. I enjoy designing scalable, maintainable, and high-quality software solutions. I am committed to continuous learning, collaboration, and exploring new technologies.
   
-- 📫 I enjoy participating and learning in new projects. Feel free to reach out to me via email at jhoanoswaldo72@gmail.com if you require my assistance.
+- 📫 Feel free to reach out to me via email at jhoanoswaldo72@gmail.com if you require my assistance.
 <!--
 **Oswe-gif/Oswe-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
